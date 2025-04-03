@@ -11,6 +11,9 @@ Here you'll find a collection of valuable resources and notes that I've gathered
 - [Andrej Karpathy's YouTube Channel](https://www.youtube.com/@AndrejKarpathy/videos)
 
 
-## Foundations
+## Foundations Videos
 #### - [Tracing the thoughts of a large language model (3 min video)](https://www.youtube.com/watch?v=Bj9BD2D3DzA)
 #### - [ Large Language Models explained briefly (8 min video)](https://www.youtube.com/watch?v=LPZh9BOjkQs&list=PLeSg3hWsVNFqIIxhcgXBv9TKUndijd672)
+
+
+#### - [Statquest 10 Hours series on Neural Networks / Deep Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
